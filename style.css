@@ -1,0 +1,28 @@
+body{ background-color: rgb(50, 10, 56);}
+h1{
+    color: darkcyan;
+    text-align: center;
+}
+h2{
+    color: darkgoldenrod;
+}
+body{
+    margin: 0px;
+    
+}
+p{
+    color: #ef123c;
+}
+.asd{
+    display: flex;
+    flex-direction: column;
+}
+.asd a{
+   
+    border: solid yellowgreen;
+     margin-left: 1400px;
+    
+}
+.akhand ol{
+ color: yellow;
+}
